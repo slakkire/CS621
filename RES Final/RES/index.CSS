@@ -1,0 +1,74 @@
+.myname{
+    font-style: italic;
+    padding-left: 450px;
+    color: white;
+}
+body{
+    background-image:url("blazer2.jpg") ;
+    background-repeat: no-repeat; 
+    background-size: 1300px 2500px;
+  
+}
+.w{
+  font-style: oblique;
+  margin-left: 515px;
+  margin-top:0cm;
+  font-size: xx-large;
+}
+  ul{
+    display:inline;
+    list-style-type: none;
+    margin : 0;
+    padding : 0;
+    width: 50px;
+    display: block;
+    text-decoration: none;
+  }
+nav{
+    display:inline;
+    /* background-color: white; */
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-right: 900px;
+    padding: 10px;
+    margin-left: 10px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.main{
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  text-shadow:  gray;
+  color: beige;
+}
+.main a{
+    /* padding: -50px; */
+    list-style-type: none;
+    text-decoration: underline;
+    color: beige;   
+}
+
+.res{
+  size: 2000px;
+}
+.re{
+  margin-left: 1000 px;
+}
+
+#contact1{
+  color: white;
+  margin-left: 100px;
+}
+
+.mobile{
+  margin-left: 100px;
+}
+
+.t1{
+margin: 50px;
+padding: 10px;
+}
+.t2{
+  margin: 50px;
+}
